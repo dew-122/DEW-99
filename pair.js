@@ -81,11 +81,11 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*DEW-99 [The Powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is your Session ID — copy this ID and paste it into your config.js file.*\n\n🔰 *Developer:* Dew-99 Developer (Imopjith Approved ✅)\n📧 *Contact:* denethdewidu26@gmail.com\n\n💬 *Ask me anything here:* wa.me/message/WKGLBR2PCETWD1\n\n📲 *Join my WhatsApp Group:*\nhttps://chat.whatsapp.com/GAOhr0qNK7KEvJwbenGivZ\n\n🌐 *Join My DARK WEB Server:*\nhttps://darkweb.link/your-darkweb-link`;
+            const sid = `*DEW-99 [The Powerful WA BOT]*\n\n(DEW DEVOLOPER 99)\n\n*This is your Session ID — copy this ID and paste it into your config.js file.*\n\n🔰 *Developer:* Dew-99 Developer (Imopjith Approved ✅)\n📧 *Contact:* denethdewidu26@gmail.com\n\n💬 *Ask me anything here:* wa.me/message/WKGLBR2PCETWD1\n\n📲 *Join my WhatsApp Group:*\nhttps://chat.whatsapp.com/GAOhr0qNK7KEvJwbenGivZ\n\n🌐 *Join My DARK WEB Server:*\nhttps://darkweb.link/your-darkweb-link`;
             const mg = `🛑 *Do not share this code to anyone* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://imgur.com/a/9PtHy70.jpg",
+                url: "https://raw.githubusercontent.com/dew-122/DEW-99/refs/heads/main/ea74c6a0-8a22-47b4-9ac7-ba12d24601ae.png",
               },
               caption: sid,
             });
